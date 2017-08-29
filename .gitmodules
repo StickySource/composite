@@ -1,0 +1,42 @@
+[submodule "sticky-composite-jaxb22"]
+	path = sticky-composite-jaxb22
+	url = git@github.com:StickySource/sticky-composite-jaxb22.git
+[submodule "sticky-composite-guice4"]
+	path = sticky-composite-guice4
+	url = git@github.com:StickySource/sticky-composite-guice4.git
+[submodule "sticky-composite-spring4"]
+	path = sticky-composite-spring4
+	url = git@github.com:StickySource/sticky-composite-spring4.git
+[submodule "sticky-composite-spring30"]
+	path = sticky-composite-spring30
+	url = git@github.com:StickySource/sticky-composite-spring30.git
+[submodule "sticky-composite-guice3"]
+	path = sticky-composite-guice3
+	url = git@github.com:StickySource/sticky-composite-guice3.git
+[submodule "sticky-composite-datetime"]
+	path = sticky-composite-datetime
+	url = git@github.com:StickySource/sticky-composite-datetime
+[submodule "sticky-composite-logging-api"]
+	path = sticky-composite-logging-api
+	url = git@github.com:StickySource/sticky-composite-logging-api
+[submodule "sticky-composite-logging-deploy"]
+	path = sticky-composite-logging-deploy
+	url = git@github.com:StickySource/sticky-composite-logging-deploy
+[submodule "sticky-composite-jersey-spring"]
+	path = sticky-composite-jersey-spring
+	url = git@github.com:StickySource/sticky-composite-jersey-spring
+[submodule "sticky-composite-spring3"]
+	path = sticky-composite-spring3
+	url = git@github.com:StickySource/sticky-composite-spring3
+[submodule "sticky-composite-cxf-soap"]
+	path = sticky-composite-cxf-soap
+	url = git@github.com:StickySource/sticky-composite-cxf-soap
+[submodule "sticky-composite-unittest"]
+	path = sticky-composite-unittest
+	url = git@github.com:StickySource/sticky-composite-unittest
+[submodule "sticky-composite-cxf-soap-unittest"]
+	path = sticky-composite-cxf-soap-unittest
+	url = git@github.com:StickySource/sticky-composite-cxf-soap-unittest
+[submodule "sticky-composite-cxf-soap-http"]
+	path = sticky-composite-cxf-soap-http
+	url = git@github.com:StickySource/sticky-composite-cxf-soap-http
